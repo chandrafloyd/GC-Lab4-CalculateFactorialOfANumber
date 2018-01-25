@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Lab4-CalculateFactorialOfANumber\Lab4-CalculateFactorialOfANumber\obj\Debug\netcoreapp2.0\Lab4-CalculateFactorialOfANumber.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\Lab4-CalculateFactorialOfANumber\Lab4-CalculateFactorialOfANumber\obj\Debug\netcoreapp2.0\Lab4-CalculateFactorialOfANumber.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Lab4-CalculateFactorialOfANumber\Lab4-CalculateFactorialOfANumber\obj\Debug\netcoreapp2.0\Lab4-CalculateFactorialOfANumber.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Lab4-CalculateFactorialOfANumber\Lab4-CalculateFactorialOfANumber\obj\Debug\netcoreapp2.0\Lab4-CalculateFactorialOfANumber.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Lab4-CalculateFactorialOfANumber\Lab4-CalculateFactorialOfANumber\bin\Debug\netcoreapp2.0\Lab4-CalculateFactorialOfANumber.deps.json
+C:\Users\Owner\source\repos\Lab4-CalculateFactorialOfANumber\Lab4-CalculateFactorialOfANumber\bin\Debug\netcoreapp2.0\Lab4-CalculateFactorialOfANumber.runtimeconfig.json
+C:\Users\Owner\source\repos\Lab4-CalculateFactorialOfANumber\Lab4-CalculateFactorialOfANumber\bin\Debug\netcoreapp2.0\Lab4-CalculateFactorialOfANumber.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Lab4-CalculateFactorialOfANumber\Lab4-CalculateFactorialOfANumber\bin\Debug\netcoreapp2.0\Lab4-CalculateFactorialOfANumber.dll
+C:\Users\Owner\source\repos\Lab4-CalculateFactorialOfANumber\Lab4-CalculateFactorialOfANumber\bin\Debug\netcoreapp2.0\Lab4-CalculateFactorialOfANumber.pdb
+C:\Users\Owner\source\repos\Lab4-CalculateFactorialOfANumber\Lab4-CalculateFactorialOfANumber\obj\Debug\netcoreapp2.0\Lab4-CalculateFactorialOfANumber.dll
+C:\Users\Owner\source\repos\Lab4-CalculateFactorialOfANumber\Lab4-CalculateFactorialOfANumber\obj\Debug\netcoreapp2.0\Lab4-CalculateFactorialOfANumber.pdb
